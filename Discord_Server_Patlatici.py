@@ -1,4 +1,4 @@
-##############DISCORD SUNUCU PATLATMA##############
+#Discord Sunucu Killer
 #01/01/2022
 
 import discord
@@ -160,4 +160,4 @@ async def Bilg(ctx, member: discord.Member=None):
 
 client.run("BOTUN TOKENI")
 
-##############batu#9929 tarafindan yazildi##############
+#batu#9929 tarafindan yazildi
