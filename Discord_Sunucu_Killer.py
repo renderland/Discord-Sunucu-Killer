@@ -1,5 +1,6 @@
 #Discord Sunucu Killer
 #01/01/2022
+#Github: https://github.com/rvbatu/Discord-Sunucu-Killer/blob/main/README.md
 
 import discord
 from discord.ext import commands
